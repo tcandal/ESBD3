@@ -63,4 +63,4 @@ def test_fairness_by_text_lengh():
     acc_value = list(results.values())
     max_diff = max(acc_value) - min(acc_value)
     print(f"Accuracy by text length category: {results}")
-    assert max_diff > 0.2, f"Fairness test failed: accuracy difference between categories is too high. {max_diff:.2f}."
+    assert max_diff < 0.2, f"Fairness test failed: accuracy difference between categories is too high. {max_diff:.2f}."
