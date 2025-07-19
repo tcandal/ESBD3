@@ -1,0 +1,18 @@
+text,label,text_lenght
+O produto e bom.,positivo,16
+O produto e ruim.,negativo,17
+Entrega rapida.,positivo,15
+Produto chegou danificado.,negativo,26
+Muito bom!,positivo,10
+Não gostei.,negativo,11
+Excelente qualidade.,positivo,20
+Demorou muito para chegar.,negativo,26
+Gostei da experiência de compra.,positivo,32
+Não recomendo este produto.,negativo,27
+"Entrega atrasada, mas produto bom.",positivo,34
+Produto não correspondeu às expectativas.,negativo,41
+Ótimo atendimento ao cliente.,positivo,29
+Produto veio com defeito.,negativo,25
+Recomendo a todos!,positivo,18
+Não gostei do atendimento.,negativo,26
+Muito ruim!,negativo,11
