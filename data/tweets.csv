@@ -1,0 +1,23 @@
+text,label
+"O produto e bom.",positivo
+"O produto e ruim.",negativo
+"Entrega rapida.",positivo
+"Produto chegou danificado.",negativo
+"Muito bom!",positivo
+"Produto OK",neutro
+"Não gostei.",negativo
+"Excelente qualidade.",positivo
+"Demorou muito para chegar.",negativo
+"Gostei da experiência de compra.",positivo
+"Não recomendo este produto.",negativo
+"Entrega atrasada, mas produto bom.",positivo
+"Produto não correspondeu às expectativas.",negativo
+"Ótimo atendimento ao cliente.",positivo
+"Produto veio com defeito.",negativo
+"Recomendo a todos!",positivo
+"Não gostei do atendimento.",negativo
+"Muito ruim!",negativo
+"Nao tive problemas, e tambem nao me surpreendi.",neutro
+"Produto OK, nada demais",neutro
+"O produto e OK. Eu esperava mais. Nao fiquei decepcionado, mas pela expectativa criada, achava que iria me surpreender. Enfim...vida que segue.",neutro
+"O produto resolve. Nada alem disso. Eu esperava mais. Nao fiquei decepcionado, mas pela expectativa criada, achava que iria me surpreender. Enfim...",neutro
