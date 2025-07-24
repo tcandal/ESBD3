@@ -37,5 +37,12 @@ jobs:
         run: |
           jupyter nbconvert --to notebook --execute notebooks/04_monitorar_fairness.ipynb --output 04_monitorar_fairness.ipynb --output-dir notebooks
 
+      - name: Rodar testes com cobertura (coverage)
+        run: |
+          pytest --cov=./ \
+                --conv-report=xml \
+                --conv-fail-under=60 \
+                test_pipeline.py
+      
       - name: Rodar testes automatizados
         run: pytest test_pipeline.py
